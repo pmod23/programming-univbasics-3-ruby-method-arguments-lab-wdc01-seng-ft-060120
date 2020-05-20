@@ -1,5 +1,5 @@
 def 
-introduction (name,
+introduction (name)
 puts "Hi, my name is 
 #{name} 
 ."
